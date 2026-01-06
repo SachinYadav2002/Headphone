@@ -15,7 +15,7 @@ const Controll = () => {
         </div>
         <div>
           <div className="flex items-center justify-center text-center relative overflow-hidden min-h-[70vh] sm:min-h-screen 2xl:sm:min-h-[70vh]">
-            <h1 className="font-bold text-transparent text-[150px] sm:text-[150px] xl:text-[200px] bg-gradient-to-tr from-green-600 to-blue-600 bg-clip-text ">
+            <h1 className="font-bold text-transparent text-[120px] sm:text-[150px] xl:text-[200px] bg-gradient-to-tr from-green-600 to-blue-600 bg-clip-text ">
               SOLO
             </h1>
             <img
